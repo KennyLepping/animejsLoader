@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: rgb(0,0,37);
 }
 
 .wrapper {
@@ -23,16 +23,10 @@ body {
   justify-content: center;
 }
 
-.loader {
-  height: 800px;
-  width: 600px;
-  background-color: blue;
-}
-
 #boxes {
   height: 400px;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   justify-content: center;
 }
 
@@ -43,17 +37,17 @@ body {
 }
 
 .one {
-  background-color: white;
+  background-color: rgb(0,93,162);
 }
 
 .two {
-  background-color: red;
+  background-color: rgb(0, 92, 162);
 }
 
 .three {
-  background-color: black;
+  background-color: rgb(0,93,162);
 }
 
 .four {
-  background-color: green;
+  background-color: rgb(0,93,162);
 }
