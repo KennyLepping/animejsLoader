@@ -1,0 +1,1 @@
+This project is a JavaScript loading animation using anime.js
