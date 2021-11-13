@@ -14,16 +14,15 @@ body {
   background-color: rgb(0,0,37);
 }
 
-.wrapper {
+.loader-wrapper {
   width: 95%;
-  max-width: 144rem;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#boxes {
+.loading-shapes {
   height: 400px;
   display: flex;
   align-items: flex-start;
